@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ---
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="20%"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanN789&&show_icons=true&theme=radical)
 ---
 
 ### - My favorite and most used languages...
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="20%"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanN789&langs_count=10&layout=compact&show_icons=true&theme=dark&border_color=67D242)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
