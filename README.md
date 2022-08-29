@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 ---
+
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="20%"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanN789&&show_icons=true&theme=radical)
+
 ---
 
 ### - My favorite and most used languages...
